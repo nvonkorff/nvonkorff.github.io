@@ -75,11 +75,11 @@ My father-in-law is an electrician, so he kindly helped me with the installation
 
 One evening, I decided to connect the OpenSprinkler, Zone Expander and terminal blocks to the panel and wire it all together. I showed my father-in-law the next day, very proudly, how I had connected everything to the enclosure panel and wired everything up to the terminal strips. It all looked very neat and tidy. He took one look at it and told me I had hadn't left enough space to put the power-point in, nor left enough room for the lugs behind the panel to hold it up from the back of the enclosure (to make room for the wiring to run behind the panel). He suggested that I re-arrange everything to create more space, which meant undoing everything, moving it around and re-wiring it. The only orientation that worked was to put the zone expander upside-down above the OpenSprinkler unit. Thankfully, I got it right the second time and there was enough space to fit everything in.
 
-{% include image.html url="/images/IMG_5365.jpg" description="Holes drilled in the base of the enclosure (with cable ports screwed in) for the three irrigation wire runs and the electrical input. The home-made wooden lugs are to raise the panel and make room for the terminal strips and wiring behind." class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5365.jpg" description="Holes drilled in the base of the enclosure (with cable ports screwed in) for the three irrigation wire runs and the electrical input. The home-made wooden lugs are to raise the panel and make room for the terminal strips and wiring behind." height="700" %}
 
 {% include image.html url="/images/IMG_5354.jpg" description="OpenSprinkler unit and zone expander screwed onto the panel" class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5355.jpg" description="OpenSprinkler wiring: Red=Sensor inputs (not currently used), Black=Common wires, White=8 zones" class="rotate180" %}
-{% include image.html url="/images/IMG_5356.jpg" description="Zone Expander wiring: Blue=8 of 16 available zones connected to terminal strip. To be used later, if required." class="rotate180" %}
+{% include image.html url="/images/IMG_5355.jpg" description="OpenSprinkler wiring: Red=Sensor inputs (not currently used), Black=Common wires, White=8 zones" %}
+{% include image.html url="/images/IMG_5356.jpg" description="Zone Expander wiring: Blue=8 of 16 available zones connected to terminal strip. To be used later, if required." %}
 {% include image.html url="/images/IMG_5357.jpg" description="Back of panel showing terminal strips. If you look carefully, you will see the modifications to the panel and evidence of my initial, incorrect attempt at connecting everything to the panel." class="rotate90" height="700" %}
 
 ## Trenching, electrical and pipe work
@@ -96,14 +96,14 @@ The trenching, electrical and pipe-work were done in two stages. Given that I ha
 
 The pictures of the trenches are deceptive. They look really shallow in the photos, but all electrical trenches are 300mm deep.
 
-{% include image.html url="/images/IMG_5343.jpg" description="Trench with electrical conduit (orange) running to valve boxes on east side of house and to enclosure (out of shot, mounted on the wall near the air-conditioner compressor)" class="rotate90" class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5343.jpg" description="Trench with electrical conduit (orange) running to valve boxes on east side of house and to enclosure (out of shot, mounted on the wall near the air-conditioner compressor)" height="700" %}
 
-{% include image.html url="/images/IMG_5429.jpg" description="Conduit running underneath a storm-water pipe. Glad I didn't dig through that!" class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5429.jpg" description="Conduit running underneath a storm-water pipe. Glad I didn't dig through that!" %}
 
 {% include image.html url="/images/IMG_5434.jpg" description="Enclosure mounted outside near my electrical box with the panel flipped and sitting above the enclosure" class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5435.jpg" description="Close-up of the wiring into the terminal strips. I'm glad I had this picture to refer to, as I promptly forgot which colour wire was connected to which zone and didn't know what solenoid to connect to which coloured wire!" class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5435.jpg" description="Close-up of the wiring into the terminal strips. I'm glad I had this picture to refer to, as I promptly forgot which colour wire was connected to which zone and didn't know what solenoid to connect to which coloured wire!" height="700" %}
 {% include image.html url="/images/IMG_5436.jpg" description="The final product, all wired in and closed up. Huge thanks to my father-in-law for doing such a neat job with the electrical conduit, even using a flame-torch to heat and bend the conduit so it sits neatly over the conduit going to the air-conditioner." class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5439.jpg" description="Looking up from underneath showing the bends in the conduit and how the conduit connects into the bottom of the enclosure." class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5439.jpg" description="Looking up from underneath showing the bends in the conduit and how the conduit connects into the bottom of the enclosure." height="700" %}
 
 ## Chickens?
 
@@ -122,9 +122,9 @@ Each valve box has a run of 7 core irrigation cable running back to the OpenSpri
 
 The valve boxes are buried into the ground, with holes cut out of the sides to allow the mains input and the solenoid outputs. The valves themselves are water-proof and the wiring is also waterproof. All the valves have two wires, one of which is connected to a common wire (black) going back to the OpenSprinkler common port, and the other wire of each valve is connected to an active core going back to each zone input on the OpenSprinkler.
 
-{% include image.html url="/images/IMG_5329.jpg" description="Valve box (2 valves not yet connected) controlling the blueberry bed, herb garden, mango trees and succulent garden" class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5329.jpg" description="Valve box (2 valves not yet connected) controlling the blueberry bed, herb garden, mango trees and succulent garden" height="700" %}
 {% include image.html url="/images/IMG_5321.jpg" description="Valve box (2 valves not yet connected) controlling the banana trees, hydrangeas and Pinkerton avocado tree" class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5430.jpg" description="Valve box (4 valves not yet connected) controlling the raised veggie beds, back garden bed and yet to be built garden bed near the house" class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5430.jpg" description="Valve box (4 valves not yet connected) controlling the raised veggie beds, back garden bed and yet to be built garden bed near the house" height="700" %}
 
 {% include image.html url="/images/IMG_5351.jpg" description="Solenoid valve installation in valve box, showing low-density 19mm elbow connectors cut through box. I cut out holes for another 2 valves and covered them with duct tape. Saves me having to dig out the whole valve box if I want to install any more valves in future." class="rotate90" height="700" %}
 {% include image.html url="/images/IMG_5352.jpg" description="Solenoid valve installation in valve box, showing mains connector for 25mm blue-line poly-pipe." class="rotate270" height="700" %}
@@ -139,10 +139,10 @@ I installed a second tap on my mains-water garden tap and ran a 25mm blue-line p
 
 {% include image.html url="/images/IMG_5337.jpg" description="Second garden tap installed, connected to 25mm blue-line poly-pipe." class="rotate90" height="700" %}
 
-{% include image.html url="/images/IMG_5338.jpg" description="Double outlet tap from rainwater tanks, one outlet connected to normal garden hose, one outlet going to irrigation system. 25mm blue-line poly-pipe (running along retaining wall above the 20mm pipe), carrying mains water to float valve installed in rainwater tank." class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5338.jpg" description="Double outlet tap from rainwater tanks, one outlet connected to normal garden hose, one outlet going to irrigation system. 25mm blue-line poly-pipe (running along retaining wall above the 20mm pipe), carrying mains water to float valve installed in rainwater tank." height="700" %}
 
-{% include image.html url="/images/IMG_5334.jpg" description="Port drilled into tanks for the mains water top-up." class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5335.jpg" description="Float-switch arm inside the tank (weighted float not yet tied to arm)." class="rotate180" %}
+{% include image.html url="/images/IMG_5334.jpg" description="Port drilled into tanks for the mains water top-up." height="700" %}
+{% include image.html url="/images/IMG_5335.jpg" description="Float-switch arm inside the tank (weighted float not yet tied to arm)." %}
 ## How much did it cost?
 
 I haven't actually worked it out exactly until now, and I'm probably going to regret doing it rather than living in sweet ignorance as to how much I've actually spent on this. 
@@ -169,10 +169,11 @@ My raised veggie beds are looking great! I am converting three of them to raised
 
 Knowing that my garden will be watered precisely where and when I want, and being able to control it from anywhere in the world (via VPN), is very comforting. Seeing the results in the short time it has been operational has been very exciting. Everything seems to be thriving and I can't wait until I start seeing some of the fruits of my labour.
 
-{% include image.html url="/images/IMG_5710.jpg" description="Raised veggie beds, the closest three have a young avocado tree each. Fuerte closest, Hass, then Sheppard. Behind the beds on the fence, I have a black muscat grape, a seedless sultana grape, thornless loganberry, thornless blackberry and passionfruit." class="rotate90" height="700" %}
-{% include image.html url="/images/IMG_5714.jpg" description="The veggie/avocado beds being watered. The upper beds are on a different schedule/interval (you can see this in a screenshot of the schedule below) which is why they are not being watered at the same time." class="rotate90" height="700" %}
+{% include image.html url="/images/IMG_5710.jpg" description="Raised veggie beds, the closest three have a young avocado tree each. Fuerte closest, Hass, then Sheppard. Behind the beds on the fence, I have a black muscat grape, a seedless sultana grape, thornless loganberry, thornless blackberry and passionfruit." height="700" %}
 
-{% include image.html url="/images/IMG_5750.PNG" description="OpenSprinkler iPhone app showing configured zones, all currently inactive. The 'Water Level: 74%' indicates that the Zimmerman algorithm has decided based on temperature and humidity information (gathered from the WeatherUndeground API), to adjust the length of time each zone is configured to water for down by 16%. This is to conserve water when it is not required and to ensure plants have enough water on very hot, dry days, where the level might be bumped to 150% for example." height="300" %}
+{% include image.html url="/images/IMG_5714.jpg" description="The veggie/avocado beds being watered. The upper beds are on a different schedule/interval (you can see this in a screenshot of the schedule below) which is why they are not being watered at the same time." height="700" %}
+
+{% include image.html url="/images/IMG_5750.PNG" description="OpenSprinkler iPhone app showing configured zones, all currently inactive. The 'Water Level: 74%' indicates that the Zimmerman algorithm has decided based on temperature and humidity information (gathered from the WeatherUndeground API), to adjust the length of time each zone is configured to water for down by 16%. This is to conserve water when it is not required and to ensure plants have enough water on very hot, dry days, where the level might be bumped to 150% for example." height="300" class=rotate90 %}
 
 {% include image.html url="/images/IMG_5751.PNG" description="OpenSprinkler iPhone app showing schedule preview, which gives you a time-line of scheduled watering for a particular day." height="300" %}
 {% include image.html url="/images/IMG_5753.PNG" description="OpenSprinkler iPhone app showing individual zone schedule configuration." height="300" %}

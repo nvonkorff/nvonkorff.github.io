@@ -33,7 +33,7 @@ The double-garage area was to be converted into an external studio/rumpus room. 
 
 {% include image.html url="/images/IMG_9557_cropped.jpg" description="Before" %}
 
-{% include image.html url="/images/IMG_0756.jpg" description="After. Still a few bits of blue masking tape around from the painting, and the pipe from the gutter is running out into the fruit trees, awaiting the arrival of the water tanks, but almost complete." %}
+{% include image.html url="/images/IMG_0756.JPG" description="After. Still a few bits of blue masking tape around from the painting, and the pipe from the gutter is running out into the fruit trees, awaiting the arrival of the water tanks, but almost complete." %}
 
 
 ## Rainwater tanks

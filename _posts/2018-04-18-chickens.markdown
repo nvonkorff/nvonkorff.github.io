@@ -128,10 +128,10 @@ Are the eggs any better than store bought eggs? I think if you are buying the ch
 
 I have almost perfected my egg poaching technique. Two fresh poached eggs on vegemite toast, with a layer of smashed avocado and some jalapenos is a great way to start the day!
 
-{% include image.html url="/images/chickens/IMG_6679.jpg" description="An egg laid out in the open" %}
-{% include image.html url="/images/chickens/IMG_6681.jpg" description="I laid an egg for you" %}
-{% include image.html url="/images/chickens/IMG_7173.jpg" description="That's better! Two in the nesting box." %}
-{% include image.html url="/images/chickens/IMG_7253.jpg" description="Not all eggs are created equal. Here we have a 73 gram egg and a 47 gram egg. The 73 gram egg turned out to be a double-yolk egg. We've had a few of those now. Great when it happens!" %}
+{% include image.html url="/images/chickens/IMG_6679.JPG" description="An egg laid out in the open" %}
+{% include image.html url="/images/chickens/IMG_6681.JPG" description="I laid an egg for you" %}
+{% include image.html url="/images/chickens/IMG_7173.JPG" description="That's better! Two in the nesting box." %}
+{% include image.html url="/images/chickens/IMG_7253.JPG" description="Not all eggs are created equal. Here we have a 73 gram egg and a 47 gram egg. The 73 gram egg turned out to be a double-yolk egg. We've had a few of those now. Great when it happens!" %}
 
 ## Maintenance
 

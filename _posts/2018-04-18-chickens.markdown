@@ -24,7 +24,7 @@ I looked around online and found a coop with an additional run out the front tha
 
 A "Super Mansion Chicken Coop", along with additional mesh flooring for the run was purchased from [MyChickenCoop](https://www.mychickencoop.com.au/super-mansion-chicken-coop) and arrived 5 days later.
 
-It was "tools down" on the irrigation system once the chicken coop arrived.
+It was "tools down" on the [irrigation system](https://nvonkorff.github.io/garden/irrigation/2018/04/04/garden-irrigation-system.html) once the chicken coop arrived.
 
 {% include image.html url="/images/chickens/IMG_5124.jpg" description="The arrival of the coop" %}
 {% include image.html url="/images/chickens/IMG_5125.jpg" description="The site where the coop will go, just in front of the banana trees. The grass looks very sad as we had been through a long period with no rain and +35 degree temperatures." %}

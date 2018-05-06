@@ -81,7 +81,7 @@ My hope is that the high-density planting method will also apply to multiple var
 {% include image.html url="/images/food_garden/IMG_3378.jpg" description="Blueberries! When the blueberries get large enough to form a hedge, I hope to get so many blueberries that I have to think what I will do with all of them. I want to discover if there is such a thing as too many blueberries. I doubt it." %}
 
 ### Vegetables, grains and annuals
-I have a range of these growing at different times of the year in the raised veggie beds and have recently start experimenting with growing grains as well. Here is a list of some of the things I have successfully grown:
+I have a range of these growing at different times of the year in the raised veggie beds and have recently started experimenting with growing grains as well. Here is a list of some of the things I have successfully grown:
 
 #### Alliums
 * Onion

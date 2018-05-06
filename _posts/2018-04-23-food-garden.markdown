@@ -44,8 +44,8 @@ My hope is that the high-density planting method will also apply to multiple var
 * 1 x Pinkerton Avocado
 * 2 x Sheppard Avocado
 
-{% include image.html url="/images/food_garden/IMG_7679.jpg" description="Right up at the back of the garden is where the majority of the fruit trees are planted. This was 14-NOV-2010." %}
-{% include image.html url="/images/food_garden/IMG_5021.jpg" description="This is roughly the same spot, almost 7 years later, 27-AUG-2017. I got rid of all the non-edible shrubs at the back corners. I now have a mango (behind the lemon tree) and a white fig at the corners, two macadamia trees, feijoa, orange, lime, lemon, lemonade, black fig, jaboticaba (the tiny shrub in the middle) and the guava (bottom right)." %}
+{% include image.html url="/images/food_garden/IMG_7679.JPG" description="Right up at the back of the garden is where the majority of the fruit trees are planted. This was 14-NOV-2010." %}
+{% include image.html url="/images/food_garden/IMG_5021.JPG" description="This is roughly the same spot, almost 7 years later, 27-AUG-2017. I got rid of all the non-edible shrubs at the back corners. I now have a mango (behind the lemon tree) and a white fig at the corners, two macadamia trees, feijoa, orange, lime, lemon, lemonade, black fig, jaboticaba (the tiny shrub in the middle) and the guava (bottom right)." %}
 
 ### Herbs
 * 2 stands of Dwarf Cavendish Banana - yes, bananas are a herb, not a tree

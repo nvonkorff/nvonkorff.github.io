@@ -76,7 +76,7 @@ My hope is that the high-density planting method will also apply to multiple var
 * 5 x Passionfruit 
 * Strawberries. 
 
-{% include image.html url="/images/food_garden/IMG_5036.jpg" description="Strawberries have been planted in the corners of the vegetable garden beds. The plan is to let them run and make new plants all around the edge of the garden beds." %}
+{% include image.html url="/images/food_garden/IMG_5036.JPG" description="Strawberries have been planted in the corners of the vegetable garden beds. The plan is to let them run and make new plants all around the edge of the garden beds." %}
 {% include image.html url="/images/food_garden/IMG_5848.jpg" description="It doesn't look like much now, but down the middle of this bed is the blueberry hedge, with some strawberries near the front, and there a couple of new passionfruits along the fence that will go in shortly. I'll be putting up another trellis, similar to behind the veggie beds on this fence and will train the passionfruit along it. Blueberry plants can get to between 1-2 meters tall, so I'm hoping for a solid hedge of blueberries one day. I've also planted some more wheat between the blueberries and the fence." %}
 {% include image.html url="/images/food_garden/IMG_3378.jpg" description="Blueberries! When the blueberries get large enough to form a hedge, I hope to get so many blueberries that I have to think what I will do with all of them. I want to discover if there is such a thing as too many blueberries. I doubt it." %}
 

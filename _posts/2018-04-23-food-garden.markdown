@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Food Garden"
+description: "This post covers all the fruit trees, fruit-bearing bushes and vines, vegetables and herbs that I am growing in my food garden"
+author: "Nick von Korff"
 date:   2018-05-06 10:37:53 +1000
 categories: fruit vegetables garden 
 ---

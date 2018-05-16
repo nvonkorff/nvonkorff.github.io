@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Chickens"
+description: "This post covers the purchase and installation of my chicken coop, the purchase of my Australorp chickens and the beginning of their egg laying."
+author: "Nick von Korff"
 date:   2018-04-18 07:37:53 +1000
 categories: chickens garden 
 ---

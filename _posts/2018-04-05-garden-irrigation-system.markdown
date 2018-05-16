@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Garden Irrigation System"
+description: "Building, installing and configuring my rain-water tank backed OpenSprinkler garden irrigation system"
+author: "Nick von Korff"
 date:   2018-04-05 07:30:08 +1000
 categories: garden irrigation 
 ---

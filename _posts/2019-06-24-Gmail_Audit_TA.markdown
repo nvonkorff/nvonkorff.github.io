@@ -31,7 +31,7 @@ This App provides the following scripts:
 
 ## Installation
 
-* Download the TA from Splunkbase: [Gmail Audit TA](https://final-link-to-be-insterted-here.com)
+* Download the TA from Splunkbase: [Gmail Audit TA](https://splunkbase.splunk.com/app/4560/)
 * Install the app onto your Splunk instance. This could be a single-instance or a data collection instance (HF). Install via the UI or CLI as you would any other Splunk app.
 * Restart Splunk
 

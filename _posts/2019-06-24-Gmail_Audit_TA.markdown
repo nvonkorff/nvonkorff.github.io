@@ -9,7 +9,7 @@ categories: splunk gmail audit
 ## Overview
 There was a requirement at a large Australian organisation where I have been working, to capture Gmail audit data into their Splunk Enterprise Security environment. It turned out that there was nothing available yet to do this, so it had to be built.
 
-This is the first Splunk add-on that I have built and released to [Splunkbase](https://splunkbase.splunk.com).
+This is the first Splunk add-on that I have built and released to [Splunkbase](https://splunkbase.splunk.com/app/4560/).
 
 The Gmail Audit TA for Splunk allows a Splunk Enterprise administrator to interface with Google G Suite and Gmail to achieve the following for one or more G Suite domains:
 
@@ -23,11 +23,9 @@ This App provides the following scripts:
 
 |                                              |                                                                                                         |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `gmail_authorize.py`                         | This Python custom endpoint allows the authorization of the App to G Suite For Splunk from the web UI.  |
 | `input_module_gsuite_directory_user_list.py` | Gather a listing of users from the G Suite Directory and load them into Splunk.                         |
 | `input_module_gmail_enforce_audit.py`        | Enable Gmail audit for any users in the directory that do not currently have auditing enabled.          |
 | `input_module_gmail_retrieve_audit_data.py`  | Retrieve audit events from the inbox of the recipient user, load into Splunk and mark messages as read. |
-| `Utilities.py`                               | Allows utility interactions with Splunk Endpoints                                                       |
 
 ## Installation
 

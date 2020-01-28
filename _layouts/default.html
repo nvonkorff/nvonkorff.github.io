@@ -6,6 +6,9 @@
   <body>
 
     {%- include header.html -%}
+    {% if jekyll.environment == 'production' and page.layout == 'post' and site.google_adsense %}
+    {% include google-adsense.html %}
+    {% endif %}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -13,7 +16,9 @@
       </div>
     </main>
 
-    {%- include advertisements.html -%}
+    {% if jekyll.environment == 'production' and page.layout == 'post' and site.google_adsense %}
+    {% include google-adsense.html %}
+    {% endif %}
     {%- include footer.html -%}
   </body>
 

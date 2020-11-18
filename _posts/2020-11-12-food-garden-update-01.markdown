@@ -14,7 +14,7 @@ It's been quite some time since my first [blog post about my food garden](https:
 
 I had just planted avocado trees in the middle of my three largest raised veggie garden beds after my last post. The main reasoning for this is that avocado trees require very good drainage and regular water. Having just installed my irrigation system, this seemed like a logical place to put the trees, with veggies planted around on the outer edges of the beds.
 
-Last season, the trees flowered beautifully, and while I thought I was going to get a great crop of avocados, all of the immature dropped off the Hass, Shephard and Fuerte.
+Last season, the trees flowered beautifully, and while I thought I was going to get a great crop of avocados, all of the immature fruit dropped off the Hass, Shephard and Fuerte.
 
 That was the first season the trees could have potentially borne fruit, so it's not entirely surprising that they dropped their fruit before it could ripen.
 
@@ -42,7 +42,9 @@ The macadamia tree that my parents bought as a house-warming gift seems to have 
 
 ### Mango
 
-Mangoes are one of my favourite fruits, so I have three mango trees in the ground, two Bowen/Kensington Pride, and one Nam-Doc-Mai mango (a Thai variety that is supposed to be very good eating). Last season I got my first fruit from one of the KP mangoes. We ended up with a lot of rain when the mango was ripening, so the skin split and was attacked by fruit fly. I had to cut out a big chunk of the mango, and what was left didn't get a chance to ripen completely. Overall, a bit of a disappointing first mango, but better luck this year.
+Mangoes are one of my favourite fruits, so I have three mango trees in the ground, two Bowen/Kensington Pride, and one Nam-Doc-Mai mango (a Thai variety that is supposed to be very good eating). Last season I got my first fruit from one of the KP mangoes. Actually, I have three mango trees in the ground that I bought. I have another two in the ground that I grew from seed. I particularly liked the flavour of the Honey Gold mangoes we got at the shops a few years ago, so planted a couple of the seeds in pots and they grew quite well. I have planted those two in the ground, and we'll see what happens. So, I lie. I have five mango trees. :)
+
+We ended up with a lot of rain when the mango was ripening, so the skin split and was attacked by fruit fly. I had to cut out a big chunk of the mango, and what was left didn't get a chance to ripen completely. Overall, a bit of a disappointing first mango, but better luck this year.
 
 {% include image.html url="/images/food_garden_update_01/IMG_9604.jpeg" description="My one and only mango (Kensington Pride). I have had to treat the trees for fungal diseases, which I believe is what is causing the black spots on the leaves and fruit." %}
 

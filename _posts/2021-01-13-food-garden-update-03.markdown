@@ -3,7 +3,7 @@ layout: post
 title:  "Food Garden - Update: Part 03"
 description: "Food Garden - Update: Part 03"
 author: "Nick von Korff"
-date:   2020-12-21 11:00:00 +1000
+date:   2021-01-13 09:00:00 +1000
 categories: fruit vegetables garden
 ---
 It's been quite some time since my first [blog post about my food garden](https://nvonkorff.github.io/fruit/vegetables/garden/2018/05/06/food-garden.html), so I thought I'd put up an update post to show what's new and how things have changed since that blog post. Way too much is going on to try to fit everything into one post, so I'm going to break it up into a few posts.

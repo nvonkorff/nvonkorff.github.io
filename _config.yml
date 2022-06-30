@@ -34,7 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-youtube
+
+plugins: [jekyll-youtube]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

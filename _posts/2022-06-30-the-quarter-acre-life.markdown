@@ -16,7 +16,7 @@ I hope to keep this blog slightly more up-to-date now, but it may be linking mor
 
 Anyway, this is the intro video to the channel, which gives a tour of the quarter acre property, highlighting the various edible varieties of plants we're growing.
 
-{% youtube "https://www.youtube.com/watch?v=MMyhfDkq1UQ" %}
+<iframe width="800" height="600" src="https://www.youtube.com/embed/MMyhfDkq1UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you enjoy the video, please Like and Subscribe to help the channel "grow"  :) 
 

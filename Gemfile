@@ -31,3 +31,9 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
 gem 'commonmarker'
+
+gem "webrick", "~> 1.7"
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end

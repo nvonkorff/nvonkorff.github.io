@@ -14,7 +14,7 @@ Not the healthiest breakfast around, but it's nice to occasionally have a breakf
 
 {% include image.html url="/images/the_quarter_acre_life/IMG_9459.jpg" description="Pancakes with sliced banana, a blob of vanilla ice-cream, maple syrup and sprinkled with cinnamon"%}
 
-## Salmon poke bowl for lunch
+## Teriyaki salmon poke bowl for lunch
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/eXQHFu0bcXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
